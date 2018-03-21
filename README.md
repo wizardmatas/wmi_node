@@ -1,4 +1,4 @@
-# wmi_node
+# wmi_node_dashboard
 
 ## Grafana dashboard for VMI Windows node
 
